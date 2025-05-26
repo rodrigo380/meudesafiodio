@@ -29,21 +29,31 @@ Iniciei contando uma historia conforme o professor.
 
 
 Ultilizando top-p alto e temperatura alta
+
 “Complete a historia. Eu sou Leon Musk e estou 30 anos no futuro e viajo em uma nave espacial”
 AI-generator
 “Ao olhar pela janela da nave, vejo Marte florescendo com cidades e vegetação. A nova tecnologia de terraformação que desenvolvemos se espalhou por todo o sistema solar. Decido que é hora de anunciar a colonização de Vênus, um passo audacioso que mudará a história da humanidade para sempre.”
 	
 	Temperatura Baixa e Top-p baixo:
+ 
 “Enquanto a nave atravessa o espaço, recebo uma mensagem de uma civilização alienígena. Eles me convidam para uma aliança intergaláctica, oferecendo tecnologia que pode salvar a Terra da crise climática. Aceito o convite, sabendo que essa decisão mudará o destino da humanidade.”
 
 “Ao chegar em um novo planeta, Leon Musk descobre uma civilização avançada que já havia colonizado Marte. Juntos, eles desenvolvem tecnologias que transformam a Terra e o espaço, unindo as duas civilizações. No final, Leon se torna um embaixador intergaláctico, promovendo paz e inovação entre os mundos.”
+
 	Temperatura zero e Top-p máximo:
+ 
 “Ao chegar em um planeta desconhecido, Leon descobre uma civilização avançada que já havia recebido visitantes da Terra. Em vez de conquistar, ele decide compartilhar conhecimentos e tecnologias, promovendo uma aliança intergaláctica. No final, Leon se torna um embaixador da paz entre os mundos, mudando o curso da história humana.”
+
 	Temperatura máximo e Top-p  zero:
+ 
 “Ao chegar em um planeta desconhecido, descubro uma civilização avançada que já havia previsto minha chegada. Juntos, desenvolvemos tecnologias que transformam a vida na Terra e no novo mundo. No final, decido ficar e liderar a nova era de exploração intergaláctica.”
+
 	Temperatura 0,66 e Top-p 0,82:
+ 
 “Ao chegar a Marte, descubro uma civilização avançada que me revela segredos sobre a viagem no tempo. Juntos, desenvolvemos uma tecnologia que permite que eu retorne ao passado e mude o curso da história da humanidade. Com um novo propósito, decido usar esse conhecimento para promover a paz e a colaboração entre os povos da Terra.”
+
 Nova instrução:
+
 Você é um assistente de IA que classifica noticias e explica o porque. use no máximo 3 frases e seja objetivo .
 
 “Classificação: Tecnologia e Educação.”
